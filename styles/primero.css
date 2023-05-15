@@ -1,0 +1,6 @@
+main > section{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: var(--margin);
+    gap: var(--margin);
+}
